@@ -10,7 +10,7 @@
 	<version>2.0.0</version>
 	<packaging>jar</packaging>
 	<name>caravan-web</name>
-	<description>simple configuration facade</description>
+	<description>Caravan Web</description>
 	<url>https://github.com/mydotey/caravan-web</url>
 
 	<licenses>
